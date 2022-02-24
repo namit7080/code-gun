@@ -1,5 +1,5 @@
 const User= require('../models/user');
-const accountmail= require('../mailers/newUser');
+const accountmail= require('../mailers/newUser.js');
 
 // Created New User 
 module.exports.create= function (req,res) {
