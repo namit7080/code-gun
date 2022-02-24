@@ -1,5 +1,5 @@
 {
-  "name": "public",
+  "name": "codegun",
   "version": "1.0.0",
   "description": "public usage",
   "main": "index.js",
@@ -24,5 +24,14 @@
     "passport-google-oauth": "^2.0.0",
     "passport-local": "^1.0.0",
     "socket.io": "^4.4.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namit7080/guppy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/namit7080/guppy/issues"
+  },
+  "homepage": "https://github.com/namit7080/guppy#readme"
 }
